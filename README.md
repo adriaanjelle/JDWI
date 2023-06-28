@@ -9,20 +9,20 @@ I am not a web developer, so I have no idea how to use these icons on the web. T
 
 ## JDWI
 
-[!](JDWI-3000px.jpg)
+![](JDWI-3000px.jpg)
 
 ## JDWI-COLR
 
-[!](JDWI-COLR-3000px.jpg)
+![](JDWI-COLR-3000px.jpg)
 
 ## JDWI-MISC
 
-[!](JDWI-MISC-3000px.jpg)
+![](JDWI-MISC-3000px.jpg)
 
 ## JDWI-MOON
 
-[!](JDWI-MOON-3000px.jpg)
+![](JDWI-MOON-3000px.jpg)
 
 ## JDWI-WIND
 
-[!](JDWI-WIND-3000px.jpg)
+![](JDWI-WIND-3000px.jpg)
